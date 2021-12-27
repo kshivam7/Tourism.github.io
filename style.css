@@ -7,7 +7,7 @@ html{
     width: 100%;
     height:100vh;
     font-family: 'Ubuntu', sans-serif;
-    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.4)) ,url('/landing\ page\ picture.jpg');
+    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.4)) ,url('https://images.pexels.com/photos/3881110/pexels-photo-3881110.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
     background-size: cover;
     background-repeat: no-repeat;
 }

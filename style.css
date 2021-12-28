@@ -85,8 +85,10 @@ section p{
 /* this is simple css and html button code*/
 
 .btn{
-    position:relative;
-    display: block;
+   
+    text-align: center;
+    width: 135px;
+    position:fixed;
     color: white;
     font-size: 14px;
     text-decoration: none;
@@ -97,7 +99,6 @@ section p{
     text-transform: uppercase;
     overflow: hidden;
     transition: 1s all ease;
-    
   }
   .btn::before{
     background: #b93333;

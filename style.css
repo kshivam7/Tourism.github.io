@@ -86,9 +86,9 @@ section p{
 
 .btn{
    
-    text-align: center;
+   text-align: center;
     width: 135px;
-    position:realtive;
+    position:relative;
     color: white;
     font-size: 14px;
     text-decoration: none;
